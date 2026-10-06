@@ -1,0 +1,4 @@
+numpy>=1.26
+flask>=3.0
+pymongo>=4.6
+waitress>=3.0
